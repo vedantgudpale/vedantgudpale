@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Gudpale</h1>
-<h3 align="center">Computer Engineering student with a strong interest in Network Security and Cybersecurity.</h3>
+<h3 align="center">Computer Engineering student enthusiastic about Network Security and Cybersecurity, focused on enhancing expertise in securing network infrastructures.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vedantgudpale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
