@@ -28,14 +28,9 @@
   </a>
 </p>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantgudpale&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-
-## 📌 Contributions This Year
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantgudpale&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Contributions This Year" />
+  <img src="https://camo.githubusercontent.com/0cdee56517b6fa27eeb8389e881834c5e525ad9bb933fb657b89f8fa5e2141ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d766564616e7467756470616c652673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="GitHub Contributions & Stats" />
 </p>
 
 ---
