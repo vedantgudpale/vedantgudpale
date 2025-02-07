@@ -33,13 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vedantgudpale&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
-## 🎯 Contributions This Year
+## 📌 Contributions This Year
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantgudpale&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantgudpale&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantgudpale&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Contributions This Year" />
 </p>
 
 ---
