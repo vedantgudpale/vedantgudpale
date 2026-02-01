@@ -1,38 +1,96 @@
-<h1 align="center">Hi 👋, I'm Vedant Gudpale</h1>
-<h3 align="center">Computer Engineering student enthusiastic about Network Security and Cybersecurity, focused on enhancing expertise in securing network infrastructures.</h3>
+# CYBERSECURITY PORTFOLIO
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantgudpale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-## 🚀 About Me
-- 🌱 Currently learning **Cybersecurity and Network Security**
-- 🔍 Exploring advanced **network security protocols, firewalls, and VPN configurations**
-- 💡 Passionate about **securing networks, ethical hacking, and cybersecurity strategies**
-- 📫 Reach me at **vedantgudpale8788@gmail.com**
-
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vedantgudpale/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/vedantgudpale" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
-## 📈 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0cdee56517b6fa27eeb8389e881834c5e525ad9bb933fb657b89f8fa5e2141ba/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d766564616e7467756470616c652673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="GitHub Contributions & Stats" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
 </p>
 
 ---
 
-💡 *Passionate about cybersecurity and network security, continuously learning and implementing solutions to enhance infrastructure security.*  
+## Who I Am
+
+I am a Cybersecurity-focused Computer Engineering student building practical, real-world defensive security skills through hands-on lab environments and structured cybersecurity platforms.
+
+My goal is to build strong foundations in defensive security, threat detection, and security engineering while continuously improving through daily technical practice.
+
+---
+
+## Core Cybersecurity Interests
+
+• Blue Team Fundamentals  
+• Security Engineering Concepts  
+• Linux Security & Terminal Operations  
+• Threat Detection Basics  
+• Practical Attack & Defense Lab Environments  
+
+---
+
+## Hands-On Cybersecurity Learning
+
+### TryHackMe
+
+I actively use TryHackMe to strengthen real-world cybersecurity skills through guided learning paths, practical labs, and simulated attack-defense scenarios.
+
+---
+
+## TryHackMe Badge Dashboard
+
+These badges represent verified practical learning and consistency in cybersecurity training.
+
+<p align="center">
+
+<a href="https://tryhackme.com/vedantg1/badges/3-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6756f3ae8ac29da4b4f67da5">
+<img src="https://img.shields.io/badge/TryHackMe-3%20Day%20Streak-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/vedantg1/badges/7-day-streak?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6756f3ae8ac29da4b4f67da5">
+<img src="https://img.shields.io/badge/TryHackMe-7%20Day%20Streak-darkred?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/vedantg1/badges/intro-to-security-engineering?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6756f3ae8ac29da4b4f67da5">
+<img src="https://img.shields.io/badge/TryHackMe-Security%20Engineering-black?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+<a href="https://tryhackme.com/vedantg1/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=6756f3ae8ac29da4b4f67da5">
+<img src="https://img.shields.io/badge/TryHackMe-Terminaled-grey?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+---
+
+## Current Cybersecurity Mission
+
+Currently focused on:
+
+• Daily cybersecurity lab practice  
+• Strengthening Linux and terminal confidence  
+• Understanding real attack techniques and defenses  
+• Building practical blue team skill base  
+
+---
+
+## Professional Profiles
+
+LinkedIn  
+(Add Link)
+
+Naukri  
+(Add Link)
+
+---
+
+## Mindset
+
+Cybersecurity is a continuous learning field.  
+I focus on building strong fundamentals, practical exposure, and real-world understanding rather than only theoretical knowledge.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
+
+---
+
