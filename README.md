@@ -71,23 +71,6 @@ Currently focused on:
 
 ---
 
-## Professional Profiles
-
-LinkedIn  
-(Add Link)
-
-Naukri  
-(Add Link)
-
----
-
-## Mindset
-
-Cybersecurity is a continuous learning field.  
-I focus on building strong fundamentals, practical exposure, and real-world understanding rather than only theoretical knowledge.
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
