@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="./linux%20badges.png" width="600"/>
+  <img src="./linux%20badges.png" width="900"/>
 </p>
